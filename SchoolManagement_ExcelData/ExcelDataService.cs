@@ -15,6 +15,7 @@ namespace SchoolManagement_ExcelData
         public string Email { get; set; }
         public string Class { get; set; }
         public string Address { get; set; }
+        public string Address1 { get; set; }
     }
 
     class ExcelDataService
